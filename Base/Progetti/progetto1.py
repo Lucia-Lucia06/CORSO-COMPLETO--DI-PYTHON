@@ -41,3 +41,4 @@ for tentativo in range(1, 6):
 if numero != numerp_egreto:
     print('\n😭 Hai terminato i tentativi.')
     print('Il numero era', numerp_egreto)    
+    
