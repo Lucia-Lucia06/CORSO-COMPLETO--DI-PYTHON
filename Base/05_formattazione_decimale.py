@@ -1,5 +1,5 @@
 # 2f (è usato per formattare i numeri in virgola mobile)
-media = 23.456789
+media = 23.456781
 
 #errore comune da non fare
 #print(media.2f) # attenzione a questo tipo di errore 'float' object has no attribute 'f2'

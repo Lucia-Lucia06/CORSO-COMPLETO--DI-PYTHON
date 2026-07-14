@@ -1,9 +1,9 @@
-    """
-    Tipi dati in Python:
-    int = intero
-    str = string
-    float = decimali, float(numeri con virgole)
-    """
+"""
+Tipi dati in Python:
+int = intero
+str = string
+float = decimali, float(numeri con virgole)
+"""
 # <class 'str'>
 nome = 'Marco'
 print('ciao mi chiamo Marco')

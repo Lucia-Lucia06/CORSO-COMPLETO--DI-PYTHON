@@ -19,7 +19,7 @@ studente = {
     'citta': 'Bologna',
     'corsi': [
         'Python', 'SQL Server', 'Pandas', 'MatplotLib', 'FastApi'
-    ]
+    ],
     'telefono': '+3932718901524'
 }
 

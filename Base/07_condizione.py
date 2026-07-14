@@ -1,4 +1,4 @@
-    """
+"""
     if(SE) elif(ALTRIMENTI SE) else(ALTRIMENTI) 
 
     if condizione:
@@ -12,8 +12,7 @@
         codice
     else:
         codice
-    """
-
+"""
 """
 Gli operatori di confronto sono:
 < > = >= <= == !=
@@ -37,3 +36,4 @@ elif password_utente != password:
     print('⚠️ Password errato.\n Riprova')
 else:
     print('Accesso negato')
+    print('programma terminato!')
